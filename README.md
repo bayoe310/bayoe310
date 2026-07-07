@@ -7,7 +7,7 @@
 
 ### 🔥 GitHub Activity
 
-<img src="https://streak-stats.demolab.com/?user=bayoe310&theme=tokyonight&hide_border=true&background=0D1117&v=3" alt="Bayu's Streak" />
+<img src="./streak.svg" alt="Bayu's Streak" />
 
 ---
 
