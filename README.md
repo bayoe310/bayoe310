@@ -7,7 +7,7 @@
 
 ### 🔥 GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bayoe310&theme=tokyonight&hide_border=true&background=0D1117" alt="Bayu's Streak" />
+<img src="https://streak-stats.demolab.com/?user=bayoe310&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="Bayu's Streak" />
 
 ---
 
@@ -25,13 +25,13 @@
 
 ---
 
-### ☕ Dukung!
+### ☕ Dukungan Pembuat (DONASI)
 
-Merasa terbantu dengan proyek atau kontribusi saya? Anda bisa mendukung saya dengan mentraktir kopi! 
+Merasa terbantu dengan proyek atau kontribusi saya? Anda bisa mendukung saya.
 Dukungan Anda sangat berarti untuk biaya server dan *maintenance*.
 
 <img src="./qr-donasi.png" alt="Scan QRIS untuk Donasi" width="250" style="border: 2px solid #3b82f6; border-radius: 12px; padding: 10px;">
 
-TOPUPGASS
+ <p><i>Scan kode QRIS di atas melalui M-Banking atau E-Wallet pilihan Anda (Dana, Ovo, GoPay, BCA, dll).</i></p>
 
 </div>
