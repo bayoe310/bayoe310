@@ -21,7 +21,7 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117
           path: streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           
       - name: Commit streak stats
         run: |
